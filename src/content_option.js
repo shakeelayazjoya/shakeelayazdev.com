@@ -83,87 +83,81 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8RzQuM0NwMayC9xWWBONM9KmFu8SU-pXyTw&s",
-    description:
-      "Task Plus website is about team management and task management.",
-    link: "taskplus.io",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegMzFyGrQcxt1V2MvxgZiUT6zFI3wzxVwlA&s",
+    description: "Task Plus website for team and task management.",
+    link: "https://taskplus.io",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrcs4Wn36GSdIFOb2SGcavkxwIE8V8kyEWA&s",
+    description: "Ask Zeno AI for wisdom and life advice.",
+    link: "https://askzeno.ai",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://a2.storyblok.com/f/259811/2700x1521/466f7f288f/eye-able_assist.png/m/648x365/filters:quality(95)",
+    description: "Eye Able - Accessibility solutions for websites.",
+    link: "https://eye-able.com/",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGF5aigwa_aCQU9V_1kuLWDnZcsqll9OJtw&s",
+    description: "Maxcore Technologies - Innovative tech solutions.",
+    link: "https://maxcoretechnologies.com/",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://media.istockphoto.com/id/690357282/photo/woman-chooses-petunia-flowers-at-garden-plant-nursery-store.jpg?s=612x612&w=0&k=20&c=-jaHicZyp_uCovk8J9eJOKfWiLEuoi_MNZsP-ezTag0=",
+    description: "Root Nature - Gardening and plant care.",
+    link: "https://rootnature-frontend.vercel.app/",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGyTS0fwB7r_ZH6y_5h_-DEcFx7MrNc2i3w&s",
+    description: "Zahidas - Fashion and lifestyle brand.",
+    link: "https://zahidas.com/",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://scaranoarchitect.com/wp-content/uploads/2022/10/henry-norman-hotel-lobby-2-768x511.jpeg",
+    description: "Scarano Architect - Hotel lobby design.",
+    link: "https://scaranoarchitect.com/work/",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://scaranoarchitect.com/wp-content/uploads/2022/01/brooklyn-multi-family-768x576.jpeg",
+    description: "Scarano Architect - Multi-family housing design.",
+    link: "https://scaranoarchitect.com/",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://marketplace.canva.com/EAFwckKNjDE/2/0/1600w/canva-black-white-grayscale-portfolio-presentation-vzScEqAI__M.jpg",
+    description: "My personal portfolio website.",
+    link: "https://shakeelayazjoiya.vercel.app/",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://blog-static.morelogin.com/halo/1-njkz.png",
+    description: "Z2U - Marketplace for digital goods.",
+    link: "https://z2u.com",
     target: "_blank",
   },
   {
     img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    description: "My development portfolio.",
+    link: "https://shakeelayazdevcom.vercel.app/",
     target: "_blank",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yhd9Q4whReZZuh4lhPniee7ykvYKrHWY6A&s",
+    description: "Mate Elevate - Blog on personal growth.",
+    link: "https://mateelevate.com/blogs/111-angel-number-meaning/",
+    target: "_blank",
+  },
+  {
+    img: "https://www.hostinger.co.uk/tutorials/wp-content/uploads/sites/2/2018/08/Empire-Flippers-an-online-business-marketplace-1024x564.png",
+    description: "This is my personal portfolio website.",
+    link: "https://taskplus.io",
     target: "_blank",
   },
 ];
@@ -185,6 +179,7 @@ const socialprofils = {
   facebook: "https://www.facebook.com/muhammad.shakeelayaz",
   linkedin: "https://www.linkedin.com/in/muhammad-shakeel-ayaz-37883b24b/",
   instagram: "https://www.instagram.com/muhammadshakeelayaz/",
+  whatsapp: "https://wa.me/923032991954",
 };
 export {
   meta,
